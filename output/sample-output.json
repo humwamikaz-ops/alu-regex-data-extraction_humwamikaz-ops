@@ -1,1 +1,28 @@
-
+{
+    "emails": {
+        "alu_official_email": [
+            "honorata@alueducation.com"
+        ],
+        "alu_alumni_email": [
+            "honorable@alumni.alueducation.com"
+        ],
+        "alu_si_email": [
+            "support@si.alueducation.com"
+        ],
+        "other_email": [
+            "help.sos@gmail.com"
+        ]
+    },
+    "masked_cards": [
+        "**** **** **** 8880",
+        "**** **** **** 7987",
+        "**** **** **** 4444"
+    ],
+    "phone_numbers": [
+        "123 788 888 8880"
+    ],
+    "urls": [
+        "http://github.com",
+        "https://alueducation.com"
+    ]
+}
