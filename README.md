@@ -1,13 +1,13 @@
-Tool for Data extraction and Sanitizing
-A python application built to clean raw text inputs and extract structured data including emails masked payment cards, phone numbers and URLs.
+<--Tool for Data extraction and Sanitizing
+<--A python application built to clean raw text inputs and extract structured data including emails masked payment cards, phone numbers and URLs.
 
-Repository structure
+<--Repository structure
 
-📁 input
+<--📁 input
     >raw-text.txt  **Sample text for testing logic
-📁 output
+<--📁 output
     >sample-output.json   **JSON extraction report
-📁 src
+<--📁 src
     >main.py      **logic and regex execution
 
-README.md **Documentation for repository            
+<--README.md **Documentation for repository            
