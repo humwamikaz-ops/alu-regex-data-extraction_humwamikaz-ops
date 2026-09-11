@@ -21,8 +21,8 @@
     "phone_numbers": [
         "123 788 888 8880"
     ],
-    "urls": [
-        "http://github.com",
-        "https://alueducation.com"
+    "links": [
+        "https://alueducation.com",
+        "http://github.com"
     ]
 }
